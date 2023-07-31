@@ -1,5 +1,5 @@
-![dd](https://github.com/purveshthummar/edge-detector/assets/140932979/0f6ba870-2c37-4b7b-b093-74c4051f47f4)# edge-detector
-Positive edge detector will send out a pulse whenever the siganl it is monitoring changes from 0 to 1 (positive edge). similarly Negative edge detector will send out a pulse whenever the siganl it is monitoring changes from 1 to 0 (negative edge).
+# Edge Detector
+There are two type positive and negative edge detector. in Positive edge detecctor will send out pulse whenever the signal it is monitoring change from 0 to 1 (positive edge). in Negative edge detecctor will send out pulse whenever the signal it is monitoring change from 1 to 0 (negative edge).
 # Positive Edge Detector
 ![pose_wave](https://github.com/purveshthummar/edge-detector/assets/140932979/a580fe1b-6600-42eb-a6cf-2723eeddd527)
 
